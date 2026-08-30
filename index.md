@@ -7,21 +7,21 @@ title: Welcome to my blog!
 
 ### Here is an unordered list
 - One
-- - Two
+  - Two
   - Three
 - Four
 - Five
-- - Six
- 
+ - Six
+
 ### Here is an ordered list
 1. A
 1. B
 1. C
 
 ### Here are checkboxes
-[ ] Sunday
-[ ] Monday
-[ ] Saturday
+[] Sunday
+[] Monday
+[] Saturday
 
 ### Here is a link
 [microsoft.com](https://www.microsoft.com)
